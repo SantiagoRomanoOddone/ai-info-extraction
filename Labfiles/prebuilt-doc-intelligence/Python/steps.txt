@@ -1,0 +1,11 @@
+1. 
+cd mslearn-ai-info/Labfiles/prebuilt-doc-intelligence/Python
+
+2.
+python -m venv labenv
+# On mac
+source ./labenv/bin/activate
+pip install -r requirements.txt azure-ai-formrecognizer==3.3.3 
+
+
+https://microsoftlearning.github.io/mslearn-ai-information-extraction/Instructions/Labs/03-prebuilt-doc-intelligence-model.html
