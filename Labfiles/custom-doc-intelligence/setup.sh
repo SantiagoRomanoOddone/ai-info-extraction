@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Set variable values
+# UPDATE these values before running the script
 subscription_id="YOUR_SUBSCRIPTION_ID"
 resource_group="YOUR_RESOURCE_GROUP"
 location="YOUR_LOCATION_NAME"
